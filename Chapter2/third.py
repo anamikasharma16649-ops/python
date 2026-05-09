@@ -30,6 +30,15 @@ k = True and False
 print(k)
 
 
+
+# truth table of and 
+print("True and False is", True and False)
+print("True and True is", True and True)
+print("False and False is", False and False)
+print("False and True is", False and True)
+
+
 print(not(True))
 
 print(not(False))
+
