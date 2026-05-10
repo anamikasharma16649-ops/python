@@ -13,7 +13,7 @@ print(name.endswith("am"))
 
 print(name.startswith("anam"))
 
-# count krti hai hum koi bhi word bracets mai dalege vo uss word ki occurance ko count kregi
+# count krti hai hum koi bhi word bracets mai dalege vo uss word ki occurance ko count kregi.
 
 print(name.count("a"))
 
@@ -21,3 +21,12 @@ print(name.count("a"))
 # string capatalization
 
 print(name.capitalize())
+
+# find words
+
+print(name.find("sharma"))   #8
+print(name.find("anamika"))    # 0
+
+# replace words
+
+print(name.replace("anamika","annu"))
