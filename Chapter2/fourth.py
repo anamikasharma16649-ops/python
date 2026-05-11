@@ -11,7 +11,7 @@ print(type(b))
 c = 51
 print(float(c))
 
-
+print(type(c))
 d = 23.8
 print(int(d))
 
