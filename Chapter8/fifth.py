@@ -7,3 +7,4 @@ def factorial(n):
 
 n = int(input("Enter no.:"))
 print(f"The factorial is: {factorial(n)}")
+
